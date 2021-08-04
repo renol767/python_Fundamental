@@ -22,5 +22,12 @@ Pembelajaran Bahasa Pemograman Python secara Fundamental, untuk dokumentasi / pe
 <a href = "https://github.com/renol767/python_Fundamental/blob/master/textfile_manipulation_and_math_library.ipynb">Text Manipulation and Math Library</a>
 <br>
 <a href = "https://github.com/renol767/python_Fundamental/blob/master/miniquiz_harga_rumah_di_tanggerang.ipynb">Mini Quiz Harga Rumah di Tanggerang</a>
-
-
+<br>
+<br>
+<a href = "https://github.com/renol767/python_Fundamental/blob/master/class_and_object.ipynb">Class and Object</a>
+<br>
+<a href = "https://github.com/renol767/python_Fundamental/blob/master/encapsulation_and_inheritance.ipynb">Encapsulation and Inheritance</a>
+<br>
+<a href = "https://github.com/renol767/python_Fundamental/blob/master/polymorphism.ipynb">Polymorphism and Overloading</a>
+<br>
+<a href = "https://github.com/renol767/python_Fundamental/blob/master/miniquiz_studi_kasus_dari_senja.ipynb">Mini Quiz Studi Kasus dari Senja</a>
